@@ -234,6 +234,14 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\BackendPracticeItem\ItemIndex.cshtml" />
+    <Content Include="Views\BackendPracticeList\Index.cshtml" />
+    <Content Include="Views\BackendPracticeList\Create.cshtml" />
+    <Content Include="Views\BackendPracticeList\Delete.cshtml" />
+    <Content Include="Views\BackendPracticeList\Edit.cshtml" />
+    <Content Include="Views\BackendPracticeItem\Create.cshtml" />
+    <Content Include="Views\BackendPracticeItem\Delete.cshtml" />
+    <Content Include="Views\BackendPracticeItem\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
